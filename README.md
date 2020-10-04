@@ -12,5 +12,6 @@
 
 |Python Simple Examples | 
 |---------------------- | 
-- The Law of Large Numbers                 
+- The law of large Numbers      
+- Calculating profit after tax of 20%
           
