@@ -6,7 +6,8 @@
 - For Loop                     
 - Chained Statements           
 
-
+#
+#
 
 |Python Simple Examples | 
 |---------------------- | 
