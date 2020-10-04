@@ -1,5 +1,6 @@
 # Programming-Basics
 
+<br />
 
 |Introduction to Python Basics  |  
 |------------------------------ | 
@@ -7,10 +8,7 @@
 - For Loop                     
 - Chained Statements           
 
-
 <br />
-
-
 
 |Python Simple Examples | 
 |---------------------- | 
