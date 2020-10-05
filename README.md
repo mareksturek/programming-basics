@@ -2,16 +2,16 @@
 
 <br />
 
-|Introduction to Python Basics  |  
+|Python Basics  |  
 |------------------------------ | 
-- While Loop                    
-- For Loop                     
-- Chained Statements           
+- While loop                    
+- For loop                     
+- Chained statements           
 
 <br />
 
 |Python Simple Examples | 
 |---------------------- | 
 - The law of large numbers      
-- Calculating profit after tax of 20%
+- Profit calculation after tax
           
