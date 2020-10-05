@@ -13,5 +13,5 @@
 |Python Simple Examples | 
 |---------------------- | 
 - The law of large numbers      
-- Profit calculation after tax
+- Profit margin calculation after tax
           
