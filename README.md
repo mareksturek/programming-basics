@@ -1,4 +1,4 @@
-# programming-basics
+# Programming Basics
 
 <br />
 
