@@ -14,4 +14,9 @@
 |---------------------- | 
 - The law of large numbers      
 - Profit margin calculation after tax
-          
+
+<br />
+
+|Python Packages | 
+|---------------------- | 
+- Introduction to Pandas    
