@@ -2,7 +2,7 @@
 
 <br />
  
-``` ## Python Basics ```
+### ```  Python Basics ```
 
 - While loop           
 - For loop             
@@ -10,13 +10,13 @@
 
 <br />
 
-``` ## Python Packages ```
+### ``` Python Packages ```
 
 - Introduction to Pandas 
 
 <br />
 
-``` ## Python Examples ```                       
+### ``` Python Examples ```                       
                           
 - The law of large numbers                
 - Profit margin calculation after taxes   
