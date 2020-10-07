@@ -20,7 +20,7 @@
                           
 - The law of large numbers                
 - Profit margin calculation after taxes   
-- Chained statements                          
+                         
 
 <br />
 
