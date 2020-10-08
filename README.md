@@ -14,8 +14,8 @@
 
 - Ignore warnings
 - Changing working directory
-- Introduction to Pandas
-    - Read a file
+- Intro to Pandas
+- Intro to Seaborn
 
 <br />
 
@@ -24,6 +24,7 @@
 - The law of large numbers                
 - Profit margin calculation after taxes   
 - Exploring data with Pandas                         
+- Visualization with Seaborn
 
 <br />
 
