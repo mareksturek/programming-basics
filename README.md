@@ -12,7 +12,11 @@
 
 ### ``` Python Packages ```
 
-- Introduction to Pandas 
+- Ignore warnings
+- Changing working directory
+- Introduction to Pandas
+    - Read a file
+    - Exploring data
 
 <br />
 
