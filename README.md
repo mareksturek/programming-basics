@@ -1,7 +1,8 @@
 ![myreadme](https://user-images.githubusercontent.com/70707092/95544092-d0b72880-09bf-11eb-90f7-bdca493307f7.png)
 
 # Table of Content
-##- Python Basics
+
+## Python Basics
   - Type of variables
   - List, Dictionary, Tuple, Set
   - While loop           
@@ -13,7 +14,7 @@
   
 <br />
 
-##- Python Packages
+## Python Packages
   - Ignore warnings
   - Changing working directory
   - Intro to Pandas
@@ -21,7 +22,7 @@
   
 <br />
 
-##- Python Examples                    
+## Python Examples                    
   - The law of large numbers                
   - Profit margin calculation after taxes
   - Even & uneven numbers
