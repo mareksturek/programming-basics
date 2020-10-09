@@ -10,14 +10,16 @@
   - Chained statements
   - List of comprehension
   - Functions
+<br />
 - Python Packages
- - Ignore warnings
- - Changing working directory
- - Intro to Pandas
- - Intro to Seaborn
+  - Ignore warnings
+  - Changing working directory
+  - Intro to Pandas
+  - Intro to Seaborn
+<br />
 - Python Examples                    
- - The law of large numbers                
- - Profit margin calculation after taxes
- - Even & uneven numbers
- - Exploring data with Pandas                         
- - Visualization with Seaborn
+  - The law of large numbers                
+  - Profit margin calculation after taxes
+  - Even & uneven numbers
+  - Exploring data with Pandas                         
+  - Visualization with Seaborn
