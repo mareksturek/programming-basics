@@ -2,7 +2,7 @@
 
 # Table of Content
 
-## Python Basics
+- Python Basics
   - Type of variables
   - List, Dictionary, Tuple, Set
   - While loop           
@@ -14,7 +14,7 @@
   
 <br />
 
-## Python Packages
+- Python Packages
   - Ignore warnings
   - Changing working directory
   - Intro to Pandas
@@ -22,7 +22,7 @@
   
 <br />
 
-## Python Examples                    
+- Python Examples                    
   - The law of large numbers                
   - Profit margin calculation after taxes
   - Even & uneven numbers
