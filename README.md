@@ -17,6 +17,7 @@
 - Python Packages
   - Ignore warnings
   - Changing working directory
+  - Intro to Numpy
   - Intro to Pandas
   - Intro to Seaborn
   
@@ -26,5 +27,6 @@
   - The law of large numbers                
   - Profit margin calculation after taxes
   - Even & uneven numbers
+  - Simple Numpy basics
   - Exploring data with Pandas                         
   - Visualization with Seaborn
