@@ -2,8 +2,6 @@
 
 # Table of Content
 
-### Programming Basics
-
 
 - Python Basics
 
