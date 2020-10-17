@@ -4,6 +4,8 @@
 
 ### Programming Basics
 
+<br />
+
 - Python Basics
 
   - Type of variables
@@ -15,7 +17,6 @@
   - List of comprehension
   - Functions
   
-<br />
 
 - Python Packages
 
@@ -25,7 +26,6 @@
   - Intro to Pandas
   - Intro to Seaborn
   
-<br />
 
 - Python Examples     
 
