@@ -3,7 +3,8 @@
 # Table of Content
 
 ### Programming Basics
-<br />
+
+
 - Python Basics
 
   - Type of variables
