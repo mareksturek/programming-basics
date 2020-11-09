@@ -4,32 +4,11 @@
 
 - **Programming Basics**
 
-    - [Python Basics](https://github.com/mareksturek/programming-basics/blob/main/python_basics.ipynb)
-
-      - Type of variables
-      - List, Dictionary, Tuple, Set
-      - While loop           
-      - For loop
-      - Nested loop
-      - Chained statements
-      - List of comprehension
-      - Functions
+    - [Python Basics](https://github.com/mareksturek/programming-basics/blob/main/python_basics.ipyn
   
 
-    - [Python Packages](https://github.com/mareksturek/programming-basics/blob/main/python_packages.ipynb)
-
-      - Ignore warnings
-      - Changing working directory
-      - Intro to Numpy
-      - Intro to Pandas
-      - Intro to Seaborn
+    - [Python Packages](https://github.com/mareksturek/programming-basics/blob/main/python_packages.ipynb
   
 
     - [Python Examples](https://github.com/mareksturek/programming-basics/blob/main/python_examples.ipynb)     
 
-      - The law of large numbers                
-      - Profit margin calculation after taxes
-      - Even & uneven numbers
-      - Simple Numpy basics
-      - Exploring data with Pandas                         
-      - Visualization with Seaborn
