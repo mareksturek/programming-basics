@@ -4,10 +4,10 @@
 
 - **Programming Basics**
 
-    - [Python Basics](https://github.com/mareksturek/programming-basics/blob/main/python_basics.ipyn
+    - [Python Basics](https://github.com/mareksturek/programming-basics/blob/main/python_basics.ipynb)
   
 
-    - [Python Packages](https://github.com/mareksturek/programming-basics/blob/main/python_packages.ipynb
+    - [Python Packages](https://github.com/mareksturek/programming-basics/blob/main/python_packages.ipynb)
   
 
     - [Python Examples](https://github.com/mareksturek/programming-basics/blob/main/python_examples.ipynb)     
