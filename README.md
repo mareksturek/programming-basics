@@ -2,13 +2,13 @@
 
 # Table of Content
 
-- **Programming Basics**
+- ** Python Programming Basics**
 
-    - [Python Basics](https://github.com/mareksturek/programming-basics/blob/main/notebooks/python_basics.ipynb)
+    - [Basics](https://github.com/mareksturek/programming-basics/blob/main/notebooks/python_basics.ipynb)
   
 
-    - [Python Packages](https://github.com/mareksturek/programming-basics/blob/main/notebooks/python_packages.ipynb)
+    - [Packages](https://github.com/mareksturek/programming-basics/blob/main/notebooks/python_packages.ipynb)
   
 
-    - [Python Examples](https://github.com/mareksturek/programming-basics/blob/main/notebooks/python_examples.ipynb)     
+    - [Examples](https://github.com/mareksturek/programming-basics/blob/main/notebooks/python_examples.ipynb)     
 
