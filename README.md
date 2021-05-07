@@ -2,7 +2,7 @@
 
 # Table of Content
 
-- **Python Programming Basics**
+- **Python Programming**
 
     - [Basics](https://github.com/mareksturek/programming-basics/blob/main/notebooks/python_basics.ipynb)
   
