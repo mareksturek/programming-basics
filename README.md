@@ -12,7 +12,7 @@
 
     - [Examples](https://github.com/mareksturek/programming-basics/blob/main/notebooks/python_examples.ipynb)  
     
----
+___
 
 - **Matlab Programming**
 
