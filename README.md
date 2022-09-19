@@ -13,7 +13,6 @@
     - [Examples](https://github.com/mareksturek/programming-basics/blob/main/notebooks/python_examples.ipynb)     
 
 <br></br>
-
 - **Matlab Programming**
 
     - [Basics](https://github.com/mareksturek/programming-basics/blob/main/misc/matlab_onramp.pdf)
